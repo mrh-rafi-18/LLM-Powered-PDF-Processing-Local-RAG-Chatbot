@@ -21,7 +21,7 @@ This project allows you to upload a PDF and interact with it in natural language
 ⚠️ **Caution:** Since the RAG system is executing locally, it may take a long time to execute.  
 
 ### 1. Download and Install Ollama  
-- Download the `OllamaSetUp.exe` file from the Google Drive folder  
+- Download the `OllamaSetUp.exe`   
 - Install Ollama on your system  
 
 ### 2. Pull the Model  
@@ -31,7 +31,7 @@ ollama pull llama3.2
 *Note: This may take some time depending on your internet speed*  
 
 ### 3. Unzip Project Files  
-- Unzip the provided project zip file from the Google Drive folder  
+- Install the zip file and unzip it
 
 ### 4. Open Project in VS Code  
 - Launch VS Code  
@@ -83,15 +83,22 @@ streamlit run app.py
 
 ## 📂 Repository  
 
-🔗 GitHub Repository  
+🔗 GitHub Repository : https://github.com/mrh-rafi-18/LLM-Powered-PDF-Processing-Local-RAG-Chatbot.git 
 
 ---
 
-## 📸 Demo / Screenshots  
-Here’s how the app looks:
+## 📸 Demo / Screenshots
 
-![Demo Screenshot](Demo Screenshots/ui.png)
-![Demo Screenshot](Demo Screenshots/pdf processing.png)
-![Demo Screenshot](Demo Screenshots/inference.png)
+Here’s how the project looks:
+
+**1. Simple UI of the PDF RAG Chatbot**  
+![UI Screenshot](Demo%20Screenshots/ui.png)
+
+**2. PDF Upload and Processing**  
+![PDF Processing Screenshot](Demo%20Screenshots/pdf%20processing.png)
+
+**3. Inference / Chat with PDF**  
+![Inference Screenshot](Demo%20Screenshots/inference.png)
+
 
 
