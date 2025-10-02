@@ -88,6 +88,10 @@ streamlit run app.py
 ---
 
 ## 📸 Demo / Screenshots  
+Here’s how the app looks:
 
+![Demo Screenshot](Demo Screenshots/ui.png)
+![Demo Screenshot](Demo Screenshots/pdf processing.png)
+![Demo Screenshot](Demo Screenshots/inference.png)
 
 
